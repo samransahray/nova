@@ -1,0 +1,2 @@
+# nova
+Personal AI assistant
